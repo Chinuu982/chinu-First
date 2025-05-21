@@ -5,3 +5,4 @@ how to delete repo
 -first go to settings
 -second go last to danger zone
 -delete repository
+-end
