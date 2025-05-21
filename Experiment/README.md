@@ -1,2 +1,2 @@
 # Practice
-this is created for practice only.
+this is created for practice purpose.
